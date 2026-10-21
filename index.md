@@ -26,7 +26,10 @@ Perhaps add a picture of your demo. Guideline: 1/2 sentences.
 ## **My VGA Design Edit**
 Introduce your own design idea. Consider how complex/achievabble this might be or otherwise. Reference any research you do online (use hyperlinks).
 ### **Code Adaptation**
-Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
+**Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.**
+
+**Week1 Project** - I altered the stripe template from a vertical RGB style to display a horizontal blue and white stripe style. This was achieved by altering the original code to check the rows instead of the columns. Within this code I re-wrote 0 or 1s to align with the colours I wanted to display. For example all ones written to red blue and green would create the white colour and all ones written to blue and zeros written to red and green would create only the blue colour.  
+
 ### **Simulation**
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
 ### **Synthesis**
