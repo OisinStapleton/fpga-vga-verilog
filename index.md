@@ -5,9 +5,9 @@ tags: fpga vga verilog
 categories: demo
 ---
 
-Add a short welcome message or introduction here. Aim to get the viewer interested in what follows! Guideline: 1 or 2 sentences. 
-
-I am adding a test sentence here at 14:39 on 21/10/26.
+ ## **Welcome to SOC Project repo**
+Welcome to my repository to display my SOC (System on chip) project. This project will expand on a template given for a simple colour stripe VGA output and will be altered to create flags.
+The flag I have chosen to use is the Norway national flag.
 
 ## **Template VGA Design**
 ### **Project Set-Up**
@@ -28,7 +28,11 @@ Introduce your own design idea. Consider how complex/achievabble this might be o
 ### **Code Adaptation**
 **Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.**
 
-**Week1 Project** - I altered the stripe template from a vertical RGB style to display a horizontal blue and white stripe style. This was achieved by altering the original code to check the rows instead of the columns. Within this code I re-wrote 0 or 1s to align with the colours I wanted to display. For example all ones written to red blue and green would create the white colour and all ones written to blue and zeros written to red and green would create only the blue colour.  
+## **Progress timeline**
+
+**Week1** - I altered the stripe template from a vertical RGB style to display a horizontal blue and white stripe style. This was achieved by altering the original code to check the rows instead of the columns. Within this code I re-wrote 0 or 1s to align with the colours I wanted to display. For example all ones written to red blue and green would create the white colour and all ones written to blue and zeros written to red and green would create only the blue colour.
+
+**Week2** - 
 
 ### **Simulation**
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
